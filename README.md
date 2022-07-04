@@ -81,4 +81,3 @@ spring:
 
 file: 사진을 업로드하면/ 배포를 하면 리눅스에서 경로를 설정해주면됨.
   path: C:/src/instagram/src/main/resources/upload/
-[출처] [Spring 인스타그램 클론 코딩 #1] 프로젝트 생성, 테스트, yml 설정, README.md 작성|작성자 낌정
